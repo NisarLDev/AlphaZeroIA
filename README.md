@@ -17,3 +17,7 @@ Bibliography:
 6 - https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning
 
 7 - https://towardsdatascience.com/alphazero-chess-how-it-works-what-sets-it-apart-and-what-it-can-tell-us-4ab3d2d08867
+
+8 - https://www.freecodecamp.org/news/minimax-algorithm-guide-how-to-create-an-unbeatable-ai/
+
+9 - https://invidious.tiekoetter.com/watch?v=wuSQpLinRB4
