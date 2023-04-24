@@ -10,4 +10,10 @@ Bibliography:
 
 3 - https://www.deepmind.com/blog/alphago-zero-starting-from-scratch
 
-4 - 
+4 - https://web.stanford.edu/~surag/posts/alphazero.html
+
+5 - https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188
+
+6 - https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning
+
+7 - https://towardsdatascience.com/alphazero-chess-how-it-works-what-sets-it-apart-and-what-it-can-tell-us-4ab3d2d08867
