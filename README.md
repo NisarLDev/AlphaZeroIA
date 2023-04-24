@@ -21,3 +21,5 @@ Bibliography:
 8 - https://www.freecodecamp.org/news/minimax-algorithm-guide-how-to-create-an-unbeatable-ai/
 
 9 - https://invidious.tiekoetter.com/watch?v=wuSQpLinRB4
+
+10 - https://github.com/evolutionsoftswiss/alpha-zero-learning
