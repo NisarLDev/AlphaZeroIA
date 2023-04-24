@@ -8,4 +8,6 @@ Bibliography:
 
 2 - https://nikcheerla.github.io/deeplearningschool/2018/01/01/AlphaZero-Explained/
 
-3 - 
+3 - https://www.deepmind.com/blog/alphago-zero-starting-from-scratch
+
+4 - 
